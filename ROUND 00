@@ -1,129 +1,30 @@
 {
-   "title":"GOKU 2 INTROS",
-   "description":"A compilation of every Imgur/Cubari GOKU 2 Intro",
-   "artist":"-",
-   "author":"The creator of each comic has been placed after their character",
-   "cover":"https://i.imgur.com/ooHXuCa.png",
-   "chapters":{
-      "1":{
-         "title":"Sunny Wunny Intro (by Masu)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/q4TydYp/"
-         },
-         "last_updated":"1638248340"
-      },
-      "2":{
-         "title":"D.A.V.I.D. Intro (by Mintytree)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/QAKm5zv/"
-         },
-         "last_updated":"1638248340"
-      },
-      "3":{
-         "title":"Dr. Drip Intro (by Kipp)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/RnwN5RO/"
-         },
-         "last_updated":"1638248340"
-      },
-      "5":{
-         "title":"Engineer Minerva Foxx Intro (by Ninja)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/XsMqChI/"
-         },
-         "last_updated":"1638248340"
-      },
-      "6":{
-         "title":"Bora Intro (by Un7ty)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/IY48yHC/"
-         },
-         "last_updated":"1638248340"
-      },
-      "7":{
-         "title":"Melody Cujoh & Teen Spirit Intro (by Mythic)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/zuaCFij/"
-         },
-         "last_updated":"1638248340"
-      },
-      "8":{
-         "title":"Silé & Eve Intro (by Th3CrazyGuard1an)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/QJAKJNX/"
-         },
-         "last_updated":"1638248340"
-      },
-      "9":{
-         "title":"Hawaii Jack Intro (by megaoshawott)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/gfoWdTH/"
-         },
-         "last_updated":"1638248340"
-      },
-      "11":{
-         "title":"Kel'Shan Intro (by rex_rissole)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/8bUWOnG/"
-         },
-         "last_updated":"1638248340"
-      },
-      "12":{
-         "title":"Leadreus Intro (by Jojo)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/jiFeUTY/"
-         },
-         "last_updated":"1638248340"
-      },
-      "13":{
-         "title":"Mugsi Intro (by Supreme Krispy Kreme)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/fS19LE//"
-         },
-         "last_updated":"1638248340"
-      },
-      "15":{
-         "title":"Mighty Iron Horde Intro (by Jegelio)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/AC7AOcc/"
-         },
-         "last_updated":"1638248340"
-      },
-      "16":{
-         "title":"The Insurance Demon Intro (by Dj Napstablook)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/74g3dVn/"
-         },
-         "last_updated":"1638248340"
-      },
-      "17":{
-         "title":"Chefanie Intro (by Capsule)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/QKsuWBs/"
-         },
-         "last_updated":"1638248340"
-      },
-      "18":{
-         "title":"Penrose Intro (by W:Cass, A: Storm)",
-         "volume":"1",
-         "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/gur/TK0/"
-         },
-         "last_updated":"1638248340"
-      }
-   }
+  "title": "GOKU 2 INTROS",
+  "description": "A compilation of every Imgur/Cubari GOKU 2 Intro",
+  "artist": "-",
+  "author": "The creator of each comic has been placed after their character",
+  "cover": "https://i.imgur.com/ooHXuCa.png",
+  "chapters": {
+
+"1": {"title": "Sunny Wunny Intro (by Masu)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/q4TydYp/"},"last_updated": "1638248340"},
+"2": {"title": "D.A.V.I.D. Intro (by Mintytree)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/QAKm5zv/"},"last_updated": "1638248340"},
+"3": {"title": "Dr. Drip Intro (by Kipp)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/RnwN5RO/"},"last_updated": "1638248340"},
+
+"5": {"title": "Engineer Minerva Foxx Intro (by Ninja)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/XsMqChI/"},"last_updated": "1638248340"},
+"6": {"title": "Bora Intro (by Un7ty)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/IY48yHC/"},"last_updated": "1638248340"},
+"7": {"title": "Melody Cujoh & Teen Spirit Intro (by Mythic)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/zuaCFij/"},"last_updated": "1638248340"},
+"8": {"title": "Silé & Eve Intro (by Th3CrazyGuard1an)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/QJAKJNX/"},"last_updated": "1638248340"},
+"9": {"title": "Hawaii Jack Intro (by megaoshawott)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/gfoWdTH/"},"last_updated": "1638248340"},
+
+"11": {"title": "Kel'Shan Intro (by rex_rissole)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/8bUWOnG/"},"last_updated": "1638248340"},
+"12": {"title": "Leadreus Intro (by Jojo)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/jiFeUTY/"},"last_updated": "1638248340"},
+"13": {"title": "Mugsi Intro (by Supreme Krispy Kreme)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/8fS19LE/"},"last_updated": "1638248340"},
+
+"15": {"title": "Mighty Iron Horde Intro (by Jegelio)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/AC7AOcc/"},"last_updated": "1638248340"},
+"16": {"title": "The Insurance Demon Intro (by Dj Napstablook)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/74g3dVn/"},"last_updated": "1638248340"},
+"17": {"title": "Chefanie Intro (by Capsule)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/QKsuWBs/"},"last_updated": "1638248340"},
+"18": {"title": "Penrose Intro (by W:Cass, A: Storm)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/TK0cY5e/"},"last_updated": "1638248340"}
 }
+
+}
+
