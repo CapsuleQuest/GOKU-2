@@ -5,6 +5,8 @@
   "author": "The creator of each comic has been placed after their character",
   "cover": "https://i.imgur.com/ooHXuCa.png",
   "chapters": {
+
+
 "1": {"title": "Sunny Wunny Intro (by Masu)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/q4TydYp/"},"last_updated": "1638248340"},
 "2": {"title": "D.A.V.I.D. Intro (by Mintytree)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/QAKm5zv/"},"last_updated": "1638248340"},
 "3": {"title": "Dr. Drip Intro (by Kipp)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/RnwN5RO/"},"last_updated": "1638248340"},
@@ -26,7 +28,8 @@
 "19": {"title": "Neon Indigo Intro (by Rags)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/WJvnihJ/"},"last_updated": "1638248340"},
 "20": {"title": "Nubi the Inkling Intro (by MoxieMooo)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/cEIR2Vh/"},"last_updated": "1638248340"},
 "21": {"title": "Saxton G. Saxton Intro (by Arapaima)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/FvRHm3U/"},"last_updated": "1638248340"},
-"22": {"title": "Quadfist Apostate & Rooster Intro (by Spagetti)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/e3z2Nlp/"},"last_updated": "1638248340"}
+"22": {"title": "Quadfist Apostate & Rooster Intro (by Spagetti)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/e3z2Nlp/"},"last_updated": "1638248340"},
+"23": {"title": "The Agent Intro (by Revil)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/k91I36O/"},"last_updated": "1638248340"}
 
 }
 
