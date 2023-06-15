@@ -1,0 +1,65 @@
+{
+   "title":"GOKU 2 - ROUND SIX",
+   "description":"A compilation of every Imgur/Cubari GOKU 2 ROUND SIX COMIC",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after their character",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "1":{
+         "title":"Centaur-II VS. Lychanroch VS. Abe & Tungsten Arm VS. The Spear of Night City (by Luzu)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Knozxym/"
+         },
+         "last_updated":"1638248340"
+      },
+      "2":{
+         "title":"Lychanroch VS. Abe & Tungsten Arm VS. The Spear of Night City VS. Centaur-II (by Pengogo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5RvsW5Y/"
+         },
+         "last_updated":"1638248340"
+      },
+      "4":{
+         "title":"The Spear of Night City VS. Centaur-II VS. Lychanroch VS. Abe & Tungsten Arm (by Ninja)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PW1GdhD/"
+         },
+         "last_updated":"1638248340"
+      },
+      "6":{
+         "title":"The Wallpaper Woman VS. Sunny Wunny VS. LSD (by nameless)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ycIDX3B/"
+         },
+         "last_updated":"1638248340"
+      },
+      "8":{
+         "title":"Kel'Shan VS. Chefanie VS. The Beetles (by rex_rissole)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/EPnYAAm/"
+         },
+         "last_updated":"1638248340"
+      },
+      "9":{
+         "title":"Chefanie VS. The Beetles VS. Kel'Shan (by Capsule)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Wc7SBvb/"
+         },
+         "last_updated":"1638248340"
+      },
+      "11":{
+         "title":"Grizz's Goobers VS. Nadia y El Tiburón VS. Lerche (by W: Sal A: Myeth)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/T76nEkA/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
