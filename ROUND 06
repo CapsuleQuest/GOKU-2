@@ -29,11 +29,27 @@
          },
          "last_updated":"1638248340"
       },
+      "5":{
+         "title":"LSD VS. The Wallpaper Woman VS. Sunny Wunny (by Pop-Cat Calamari)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/m0DwAtA/"
+         },
+         "last_updated":"1638248340"
+      },
       "6":{
          "title":"The Wallpaper Woman VS. Sunny Wunny VS. LSD (by nameless)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/ycIDX3B/"
+         },
+         "last_updated":"1638248340"
+      },
+      "7":{
+         "title":"Sunny Wunny VS. LSD VS. The Wallpaper Woman (by Masu)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yLarohN/"
          },
          "last_updated":"1638248340"
       },
@@ -58,6 +74,22 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/T76nEkA/"
+         },
+         "last_updated":"1638248340"
+      },
+      "12":{
+         "title":"Nadia y El Tiburón VS. Lerche VS. Grizz's Goobers (by spooky)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/48uPF1r/"
+         },
+         "last_updated":"1638248340"
+      },
+      "13":{
+         "title":"Lerche VS. Grizz's Goobers VS. Nadia y El Tiburón (by MrFuriu)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/slc2icU/"
          },
          "last_updated":"1638248340"
       }
